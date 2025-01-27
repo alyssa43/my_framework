@@ -1,3 +1,3 @@
-require_relative 'hello_world'
+brequire_relative 'app'
 
-run HelloWorld.new
+run App.new
