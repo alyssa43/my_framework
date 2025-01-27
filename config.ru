@@ -1,3 +1,3 @@
-brequire_relative 'app'
+require_relative 'app'
 
 run App.new
